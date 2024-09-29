@@ -1,5 +1,6 @@
 from calculator import Calculator
 
+
 def menu():
     print("Operación:")
     print("1. Suma")
