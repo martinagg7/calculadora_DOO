@@ -19,7 +19,7 @@ class Calculator():
     def potencia(self, a, b):
         return a ** b
 
-    #Añadimos nueva función factorial
+    #Añadimos  función factorial
     def factorial(self, n):
         if n < 0:
             raise ValueError("Introduzca un num positivo ")
