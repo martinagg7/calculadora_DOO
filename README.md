@@ -6,8 +6,8 @@ Este proyecto es una calculadora básica en Python utilizando el Desarrollo Guia
 ## Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
-- **source/calculator.py**: Aquí se define la clase `Calculator`, la cual incluye métodos para las operaciones matemáticas (suma, resta, multiplicación, división, potencia y factorial).
-- **tests/test_calculator.py**: Archivo que contiene las pruebas unitarias para validar el correcto funcionamiento de las operaciones de la calculadora.
+- **source/calculator.py**: Aquí se define la clase `Calculator`, la cual incluye las operaciones matemáticas (suma, resta, multiplicación, división, potencia y factorial).
+- **tests/test_calculator.py**: Archivo que contiene las pruebas  para validar el correcto funcionamiento de las operaciones de la calculadora.
 - **main.py**: Archivo que se utiliza para ejecutar todas las pruebas unitarias del proyecto.
 - **requirements.txt**: Archivo que contiene las dependencias necesarias para el proyecto (en este caso `pytest`).
 ### Instalación y Uso
@@ -17,5 +17,5 @@ El proyecto está organizado de la siguiente manera:
 ## Datos repositorio
   Usuario: @martinagg7
   
-  Link
+  Link: https://github.com/martinagg7/calculadora_DOO.git
           
